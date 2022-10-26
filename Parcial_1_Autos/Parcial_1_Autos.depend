@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1666794779 source:c:\users\cazzo\onedrive\escritorio\facultad\projectos\parcial_1_autos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"AltaAutos.h"
+	"EstructurasAutos.h"
+	"Muestra.h"
+	"Validar.h"
+	"Baja.h"
+	"Modificar.h"
+	"AltaTrabajos.h"
+	"Informes.h"
+
+1666795708 c:\users\cazzo\onedrive\escritorio\facultad\projectos\parcial_1_autos\altaautos.h
+	"EstructurasAutos.h"
+
+1666724357 c:\users\cazzo\onedrive\escritorio\facultad\projectos\parcial_1_autos\estructurasautos.h
+
+1666789547 source:c:\users\cazzo\onedrive\escritorio\facultad\projectos\parcial_1_autos\altaautos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"AltaAutos.h"
+	"EstructurasAutos.h"
+	"Muestra.h"
+	"Validar.h"
+	"Baja.h"
+	"Modificar.h"
+	"AltaTrabajos.h"
+	"Informes.h"
+
+1666795788 c:\users\cazzo\onedrive\escritorio\facultad\projectos\parcial_1_autos\muestra.h
+
+1666794236 source:c:\users\cazzo\onedrive\escritorio\facultad\projectos\parcial_1_autos\muestra.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"AltaAutos.h"
+	"EstructurasAutos.h"
+	"Muestra.h"
+	"Validar.h"
+	"Baja.h"
+	"Modificar.h"
+	"AltaTrabajos.h"
+	"Informes.h"
+
+1666727420 c:\users\cazzo\onedrive\escritorio\facultad\projectos\parcial_1_autos\validar.h
+
+1666789547 source:c:\users\cazzo\onedrive\escritorio\facultad\projectos\parcial_1_autos\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"AltaAutos.h"
+	"EstructurasAutos.h"
+	"Muestra.h"
+	"Validar.h"
+	"Baja.h"
+	"Modificar.h"
+	"AltaTrabajos.h"
+	"Informes.h"
+
+1666795788 c:\users\cazzo\onedrive\escritorio\facultad\projectos\parcial_1_autos\baja.h
+
+1666789547 source:c:\users\cazzo\onedrive\escritorio\facultad\projectos\parcial_1_autos\baja.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"AltaAutos.h"
+	"EstructurasAutos.h"
+	"Muestra.h"
+	"Validar.h"
+	"Baja.h"
+	"Modificar.h"
+	"AltaTrabajos.h"
+	"Informes.h"
+
+1666795788 c:\users\cazzo\onedrive\escritorio\facultad\projectos\parcial_1_autos\modificar.h
+
+1666788181 source:c:\users\cazzo\onedrive\escritorio\facultad\projectos\parcial_1_autos\modificar.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"AltaAutos.h"
+	"EstructurasAutos.h"
+	"Muestra.h"
+	"Validar.h"
+	"Baja.h"
+	"Modificar.h"
+	"AltaTrabajos.h"
+
+1666795708 c:\users\cazzo\onedrive\escritorio\facultad\projectos\parcial_1_autos\altatrabajos.h
+
+1666789547 source:c:\users\cazzo\onedrive\escritorio\facultad\projectos\parcial_1_autos\altatrabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"AltaAutos.h"
+	"EstructurasAutos.h"
+	"Muestra.h"
+	"Validar.h"
+	"Baja.h"
+	"Modificar.h"
+	"AltaTrabajos.h"
+	"Informes.h"
+
+1666795836 c:\users\cazzo\onedrive\escritorio\facultad\projectos\parcial_1_autos\informes.h
+
+1666795107 source:c:\users\cazzo\onedrive\escritorio\facultad\projectos\parcial_1_autos\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"AltaAutos.h"
+	"EstructurasAutos.h"
+	"Muestra.h"
+	"Validar.h"
+	"Baja.h"
+	"Modificar.h"
+	"AltaTrabajos.h"
+	"Informes.h"
+
